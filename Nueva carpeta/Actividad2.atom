@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Oferta de Primavera 2X1 en todas nuestras clases</title>
+    <link href="htpps://www.apruebo-por-que-si.com/rebajas/primavera"/>
+    <updated>2024-04-17T19:36:25Z</updated>
+    <author>
+        <name>Juan Miguel</name>
+    </author>
+    <id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0a56</id>
+    <entry>
+        <title>Oferta de Primavera 2X1 en todas nuestras clases</title>
+        <link href="htpps://www.apruebo-por-que-si.com/rebajas/primavera"/>
+        <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+        <updated>2024-04-17T19:36:25Z</updated>
+        <summary>Apúntate con nosotros esta primavera y obten un 2X1 en todas nuestras clases,
+            oferta válida hasta fin de la primavera.</summary>
+    </entry>
+    <entry>
+        <title>12 TÉCNICAS DE ESTUDIO PARA POTENCIAR TU APRENDIZAJE</title>
+        <link href="https://www.uo.edu.mx/blog/12-t%C3%A9cnicas-de-estudio-para-potenciar-tu-aprendizaje"/>
+        <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa9a</id>
+        <updated>2024-04-27T19:36:25Z</updated>
+        <summary>Noticia sobre las 12 nuevas tecnicas de estudio.</summary>
+    </entry>
+    <entry>
+        <title>Carreras de ciencias tecnológicas con más salidas</title>
+        <link href="https://es.indeed.com/orientacion-laboral/buscar-trabajo/carreras-ciencias-tecnologicas"/>
+        <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa8a</id>
+        <updated>2025-04-10T19:36:25Z</updated>
+        <summary>Estas son las carreras de ciencias tecnológicas con más salidas.</summary>
+    </entry>
+</feed>
